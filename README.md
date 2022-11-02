@@ -11,12 +11,12 @@ This is a peer to peer payments app project using infura on the goerli testnet t
 
 <h6> Transaction and Timeline Page </h6>
 
-![](screenshots/1.PNG)
+![](screenshots/1.png)
 
 <h6> Metamask Transaction </h6>
 
-![](screenshots/2.PNG)
+![](screenshots/2.png)
 
 <h6> Metamask Confirmation </h6>
 
-![](screenshots/3.PNG)
+![](screenshots/3.png)
