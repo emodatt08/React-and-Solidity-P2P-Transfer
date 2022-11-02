@@ -1,4 +1,4 @@
-# EShop(React/Redux/Node/Typescript/Mailjet/Stripe)
+# Venmo (React/Solidity/Ethereum/Infura)
 
 This is a peer to peer payments app project using infura on the goerli testnet to send funds from one Ethereum account to another
 
