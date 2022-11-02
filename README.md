@@ -15,7 +15,7 @@ This is a peer to peer payments app project using infura on the goerli testnet t
 
 <h6> Metamask Transaction </h6>
 
-![](screenShots/2.png)
+![](ScreenShots/2.png)
 
 <h6> Metamask Confirmation </h6>
 
